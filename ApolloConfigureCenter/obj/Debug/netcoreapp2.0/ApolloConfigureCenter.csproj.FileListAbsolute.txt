@@ -1,0 +1,12 @@
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\bin\Debug\netcoreapp2.0\ApolloConfigureCenter.deps.json
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\bin\Debug\netcoreapp2.0\ApolloConfigureCenter.runtimeconfig.json
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\bin\Debug\netcoreapp2.0\ApolloConfigureCenter.runtimeconfig.dev.json
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\bin\Debug\netcoreapp2.0\ApolloConfigureCenter.dll
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\obj\Debug\netcoreapp2.0\ApolloConfigureCenter.csprojAssemblyReference.cache
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\obj\Debug\netcoreapp2.0\ApolloConfigureCenter.csproj.CoreCompileInputs.cache
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\obj\Debug\netcoreapp2.0\ApolloConfigureCenter.AssemblyInfoInputs.cache
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\obj\Debug\netcoreapp2.0\ApolloConfigureCenter.AssemblyInfo.cs
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\bin\Debug\netcoreapp2.0\ApolloConfigureCenter.pdb
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\obj\Debug\netcoreapp2.0\ApolloConfigureCenter.dll
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\obj\Debug\netcoreapp2.0\ApolloConfigureCenter.pdb
+E:\ND-GLY\NETCore\apolloConfigure\ApolloConfigureCenter\ApolloConfigureCenter\bin\Debug\netcoreapp2.0\ApolloConfigureCenter.xml
